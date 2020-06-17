@@ -22,7 +22,7 @@ end
 def remove_element_from_end_of_array(array)
   remove_end = ['codes', 'binary', 'arrays!']
   
-  arrays!_gone = 
+  arrays!_gone = remove_end.pop
 end
 
 def remove_element_from_start_of_array(array)
