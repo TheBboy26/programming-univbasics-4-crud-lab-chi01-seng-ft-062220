@@ -37,7 +37,7 @@ end
 
 def retrieve_first_element_from_array(array)
   famous = ['wow','ronaldo','cavani']
-  famousl[0]
+  famous[0]
 end
 
 def retrieve_last_element_from_array(array)
