@@ -9,7 +9,7 @@ end
 def add_element_to_end_of_array(array, element)
   add_end = ['water', 'soda', 'juice']
   
-  add_end.push('alchohol')
+  add_end << ('alchohol')
 end
 
 def add_element_to_start_of_array(array, element)
