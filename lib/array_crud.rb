@@ -27,7 +27,7 @@ end
 
 def remove_element_from_start_of_array(array)
   remove_start = ['wow','gone','hate']
-  
+  wow_gone = remove_start.shift
 end
 
 def retrieve_element_from_index(array, index_number)
