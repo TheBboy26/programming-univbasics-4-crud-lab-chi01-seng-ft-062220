@@ -20,9 +20,9 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
-  remove_end = ['codes', 'binary', 'arrays!']
+  remove_end = ['codes', 'binary', 'arrays']
   
-  arrays!_gone = remove_end.pop
+  arrays_gone = remove_end.pop
 end
 
 def remove_element_from_start_of_array(array)
