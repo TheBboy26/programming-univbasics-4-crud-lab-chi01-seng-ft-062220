@@ -31,7 +31,7 @@ def remove_element_from_start_of_array(array)
 end
 
 def retrieve_element_from_index(array, index_number)
-  famous_ppl = ['messi','ronaldo','cavani']
+  famous_ppl = ['am','ronaldo','cavani']
   famous_ppl[0]
 end
 
